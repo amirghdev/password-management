@@ -1,3 +1,2 @@
-run this line below for creating the project 
-\n
+run this line for creating the project 
 npx electron-packager . PasswordManagement
